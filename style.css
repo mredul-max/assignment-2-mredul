@@ -38,6 +38,7 @@ gap: 20px;
    list-style: none;
    display: flex;
    gap: 20px;
+   width: 100%;
   
 }
 .box-second-li{
@@ -48,9 +49,30 @@ gap: 20px;
 /* foter section*/
 .footer-list{
    list-style: none;
+   color: darkgray;
 }
 
 /* css only for logo */
 .only-logo{
    max-width: 100px;
+}
+.noto-serif-normal {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.btn{
+   width: 150px;
+   height: 20px;
+   color: aliceblue;
+   background-color:coral;
+   border: none;
+   font-size: xx-small;
+  
+}
+:hover{
+
 }
