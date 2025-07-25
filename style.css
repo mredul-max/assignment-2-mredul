@@ -22,6 +22,10 @@ gap: 20px;
 .second-para{
    display: flex;
    margin-left: 100px;
+  align-content: center;
+  margin-left: 200px;
+  margin-right: 200px
+  ;
    
 
 }
@@ -39,5 +43,14 @@ gap: 20px;
 .box-second-li{
    list-style: none;
    display: flex;
-   gap: 20px;
+  
+}
+/* foter section*/
+.footer-list{
+   list-style: none;
+}
+
+/* css only for logo */
+.only-logo{
+   max-width: 100px;
 }
