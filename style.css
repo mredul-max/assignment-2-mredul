@@ -1,0 +1,43 @@
+/*header items number:1.0 all classes sector*/
+.first{
+     display: flex;
+   justify-content: space-between;
+align-self: center;
+   margin-top: 20px;
+   margin-right: 50px;
+   margin-left:50px ;
+   padding-right: 20px;
+
+}
+ 
+.first-list{
+    list-style: none;
+display: flex;  
+  
+gap: 20px;
+
+ 
+}
+/* header items number :2.0 all classes sector*/
+.second-para{
+   display: flex;
+   margin-left: 100px;
+   
+
+}
+#second-photo{
+   width: 250px;
+
+}
+
+.box-first-li{
+   list-style: none;
+   display: flex;
+   gap: 20px;
+  
+}
+.box-second-li{
+   list-style: none;
+   display: flex;
+   gap: 20px;
+}
